@@ -33,7 +33,7 @@ public class 숫자카드게임 {
     }
 
     // 최소값
-    static int getMin(int arr[]) {
+    public static int getMin(int arr[]) {
         int min = 10000;
         for(int i=0; i<arr.length; i++) {
             if(min > arr[i]) min = arr[i];
@@ -43,7 +43,7 @@ public class 숫자카드게임 {
     }
 
     // 최대값
-    static int getMax(int arr[]) {
+    public static int getMax(int arr[]) {
         int max = 0;
         for(int i=0; i<arr.length; i++) {
             if(max < arr[i]) max = arr[i];
