@@ -1,4 +1,4 @@
-package com.devjenni.greedy;
+package com.devjenni.thisiscodingtest.greedy;
 
 /*
     [거스름돈]

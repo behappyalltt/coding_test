@@ -1,4 +1,4 @@
-package com.devjenni.dfs_bfs;
+package com.devjenni.thisiscodingtest.dfs_bfs;
 
 import java.util.ArrayList;
 

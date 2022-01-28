@@ -1,4 +1,4 @@
-package com.devjenni.greedy;
+package com.devjenni.thisiscodingtest.greedy;
 
 import java.util.Arrays;
 import java.util.Scanner;

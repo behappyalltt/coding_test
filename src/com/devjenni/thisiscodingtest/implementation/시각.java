@@ -1,4 +1,4 @@
-package com.devjenni.implementation;
+package com.devjenni.thisiscodingtest.implementation;
 
 import java.util.Scanner;
 
