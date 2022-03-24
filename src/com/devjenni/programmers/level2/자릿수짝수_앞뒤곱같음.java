@@ -38,7 +38,7 @@ public class 자릿수짝수_앞뒤곱같음 {
                 else mul2 *= Character.getNumericValue(num_char[i]);
             }
 
-            // mul1과 mul1가 같으면 그 숫자를 return
+            // mul1과 mul2가 같으면 그 숫자를 return
             if(mul1 == mul2) break;
             // mul1과 mul2가 다르면 +1하고 같은 과정을 반복
             num++;
